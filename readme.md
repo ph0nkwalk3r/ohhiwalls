@@ -13,10 +13,11 @@ From retro aesthetics to minimal calm, everything here is picked to *feel right*
 
 ## 📂 Structure
 
-```
+```bash
 ohhiwalls/
  ├── deskwalls/   # Wallpapers for desktop setups 💻
  └── mobwalls/    # Wallpapers for mobile screens 📱
+```
 
 ---
 
